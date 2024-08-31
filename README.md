@@ -1,2 +1,2 @@
-# fillet-gauge
-Tool to measure common fillets.
+# radius-gauge
+Tool to measure common various radii.
